@@ -1,0 +1,20 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 24 May 2024 11:37:24 GMT
+ */
+
+:root {
+  --color-gray900-0: #121214;
+  --color-gray900-1: rgba(0, 0, 0, 0.2);
+  --color-gray900-2: rgba(0, 0, 0, 0.2);
+  --color-gray800: #1c1c1f;
+  --color-green700: #14532d;
+  --color-white: #ffffff;
+  --color-gray200: #c1c1c4;
+  --color-gray500: #50505c;
+  --variable-collection-gray-200: #c1c1c4ff;
+  --variable-collection-gray-500: #50505cff;
+  --variable-collection-gray-800: #1c1c1fff;
+  --variable-collection-white: #ffffffff;
+  --variable-collection-green-700: #14532dff;
+}
